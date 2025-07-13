@@ -1,0 +1,9 @@
+.box {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    display: block;
+    text-align: center;
+    line-height: 100px;
+    font-family: Arial, sans-serif;
+}
